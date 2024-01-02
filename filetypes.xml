@@ -3,7 +3,7 @@
     <extensionMap>
       <mapping ext="pde" type="C++" />
       <mapping ext="ino" type="C++" />
-      <removed_mapping ext="ino" type="C++ Header" />
+      <removed_mapping ext="ino" approved="true" type="C++ Header" />
     </extensionMap>
   </component>
 </application>
