@@ -1,6 +1,13 @@
 <application>
   <component name="Arduino Support Settings">
-    <option name="programmerId" value="arduinoisp" />
-    <option name="programmerName" value="ArduinoISP" />
+    <boardCpuMap>
+      <entry key="uno" value="" />
+    </boardCpuMap>
+    <option name="port" value="/dev/cu.Bluetooth-Incoming-Port" />
+    <option name="portHistory">
+      <option value="/dev/cu.Bluetooth-Incoming-Port" />
+    </option>
+    <option name="programmerId" value="arduinoasispatmega32u4" />
+    <option name="programmerName" value="Arduino as ISP (ATmega32U4)" />
   </component>
 </application>
