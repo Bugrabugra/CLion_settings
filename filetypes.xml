@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping ext="pde" type="C++" />
+      <mapping ext="ino" type="C++" />
+      <removed_mapping ext="ino" type="C++ Header" />
+    </extensionMap>
+  </component>
+</application>
