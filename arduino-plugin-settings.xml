@@ -1,8 +1,5 @@
 <application>
   <component name="Arduino Support Settings">
-    <boardCpuMap>
-      <entry key="uno" value="" />
-    </boardCpuMap>
     <option name="programmerId" value="arduinoisp" />
     <option name="programmerName" value="ArduinoISP" />
   </component>
